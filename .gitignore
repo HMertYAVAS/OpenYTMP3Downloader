@@ -1,0 +1,67 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Dağıtım ve Paketleme (Distribution / packaging)
+bin/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Sanal Ortamlar (Virtual Environments) - EN ÖNEMLİ KISIM
+.venv/
+venv/
+ENV/
+env/
+pythonenv/
+
+# Ortam Değişkenleri (Hassas Bilgiler)
+.env
+.venv
+env.bak
+.env.test
+
+# PyCharm, VS Code ve Diğer Editörler
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Test ve Kapsam (Testing / coverage)
+htmlcov/
+.tox/
+.nosetests.real
+.jasmine/
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.blueprint
+.pytest_cache/
+cover/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# İşletim Sistemi Dosyaları
+.DS_Store
+Thumbs.db
